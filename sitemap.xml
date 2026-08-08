@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sheetlaunch.getwalksafe.co.uk/</loc></url>
+  <url><loc>https://sheetlaunch.getwalksafe.co.uk/open-excel-in-google-sheets.html</loc></url>
+  <url><loc>https://sheetlaunch.getwalksafe.co.uk/open-word-in-google-docs.html</loc></url>
+  <url><loc>https://sheetlaunch.getwalksafe.co.uk/open-powerpoint-in-google-slides.html</loc></url>
+  <url><loc>https://sheetlaunch.getwalksafe.co.uk/open-csv-in-google-sheets.html</loc></url>
 </urlset>
