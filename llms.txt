@@ -1,0 +1,15 @@
+# SheetLaunch
+
+SheetLaunch is a desktop productivity app that opens Excel, Word, PowerPoint and CSV files in the matching Google Sheets, Docs or Slides editor.
+
+## Product
+- Website: https://sheetlaunch.getwalksafe.co.uk/
+- Windows download: https://github.com/Michael5565/SheetLaunch-releases/releases/latest/download/SheetLaunch_0.1.1_x64_en-US.msi
+- Users sign in with Google and choose SheetLaunch from Windows Open with.
+- With file reuse enabled, the app can reopen an existing Google Drive copy instead of creating a duplicate.
+
+## Privacy
+Selected files are sent to the user's connected Google Drive for conversion. SheetLaunch does not sell or retain document contents on its own servers.
+
+## Support
+The website contains the current privacy and terms information.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sheetlaunch.getwalksafe.co.uk/sitemap.xml
